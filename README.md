@@ -1,1 +1,3 @@
-![img]('IMG_7371.png')
+# week 3
+
+![img](IMG_7371.png)
